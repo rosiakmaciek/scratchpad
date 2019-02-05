@@ -24,6 +24,25 @@ public class Excercise1 {
             System.out.println(text);
         }
 
+        List<String> stringList = new ArrayList<>();
+        stringList.add("Pierwszy");
+        stringList.add("Drugi");
+        stringList.add("Trzeci");
+        stringList.add("Czwarty");
+        stringList.remove("Drugi");
+        stringList.remove(0);
+
+        System.out.println(stringList.toString());
+
+        List<Integer> intList = new ArrayList<>();
+        intList.add(5);
+        intList.add(15);
+        intList.add(25);
+        intList.add(35);
+
+        System.out.println(intList.get(2));
+
+
     }
 
     private static int findMissingElement(Integer[] array) {
