@@ -1,14 +1,18 @@
 package pl.coderslab;
 
+import java.util.ArrayList;
+import java.util.Arrays;
+import java.util.List;
 import java.util.StringTokenizer;
 
 public class Excercise1 {
 
     public static void main(String[] args) {
 
-        int[] givenArray = {3, 1, 4, 2, 8, 7, 5, 6, 8, 10, 13, 9, 12, 11, 0, 14, 15, 17};
+        Integer[] givenArray = {3, 1, 4, 2, 8, 7, 5, 6, 8, 10, 13, 9, 12, 11, 0, 14, 15, 17};
 
         System.out.println(findMissingElement(givenArray));
+        System.out.println(findMissingElementContains(givenArray));
         System.out.println(recursiveFactorial(5));
         System.out.println(factorial(5));
         System.out.println(shortFibonacci(7));
@@ -19,10 +23,10 @@ public class Excercise1 {
         for(String text : myArray) {
             System.out.println(text);
         }
-        
+
     }
 
-    private static int findMissingElement(int[] array) {
+    private static int findMissingElement(Integer[] array) {
 
         boolean flag = false;
 
@@ -37,6 +41,18 @@ public class Excercise1 {
                 return i;
             }
             flag = false;
+        }
+        return -1;
+    }
+
+    private static int findMissingElementContains(Integer[] array) {
+
+        List<Integer> myList = Arrays.asList(array);
+
+        for(int i = 0; i < array.length; i++) {
+            if(!myList.contains(i)) {
+                return i;
+            }
         }
         return -1;
     }
