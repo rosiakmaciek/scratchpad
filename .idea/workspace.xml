@@ -2,17 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2366829d-4a13-474f-94ad-5b81d6dc4476" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/pl/coderslab/Excercise3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pl/coderslab/Excersise6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pl/coderslab/Exercise10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pl/coderslab/Exercise2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pl/coderslab/Exercise4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pl/coderslab/Exercise5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pl/coderslab/Exercise7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pl/coderslab/Exercise8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pl/coderslab/Exercise9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pl/coderslab/Exercise11OC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pl/coderslab/Exercise12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pl/coderslab/Exercise13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pl/coderslab/Exercise14.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pl/coderslab/Exercise15.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/testowanko/pl/coderslab/Excercise1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/testowanko/pl/coderslab/Excercise1.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -30,47 +25,100 @@
     <session id="479489447">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="5" />
+          <entry key="project.closed" value="6" />
           <entry key="project.open.time.52" value="1" />
           <entry key="project.open.time.58" value="1" />
           <entry key="project.open.time.68" value="1" />
           <entry key="project.open.time.69" value="1" />
           <entry key="project.open.time.7" value="1" />
           <entry key="project.open.time.70" value="1" />
-          <entry key="project.opened" value="6" />
+          <entry key="project.open.time.84" value="1" />
+          <entry key="project.opened" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="15" />
+          <entry key="java" value="20" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="15" />
+          <entry key="JAVA" value="20" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="12005" />
-          <entry key="txt" value="14" />
+          <entry key="java" value="15636" />
+          <entry key="txt" value="38" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="12005" />
-          <entry key="PLAIN_TEXT" value="14" />
+          <entry key="JAVA" value="15636" />
+          <entry key="PLAIN_TEXT" value="38" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/pl/coderslab/Exercise10.java">
           <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="494">
+              <caret line="39" selection-start-line="39" selection-end-line="39" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/pl/coderslab/Exercise11OC.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="19">
+              <caret line="8" column="41" selection-start-line="8" selection-start-column="41" selection-end-line="8" selection-end-column="41" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/pl/coderslab/Exercise12.java">
+          <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="349">
-              <caret line="39" lean-forward="true" selection-start-line="39" selection-end-line="39" />
+              <caret line="36" selection-start-line="36" selection-end-line="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/pl/coderslab/Exercise13.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="349">
+              <caret line="37" column="1" selection-start-line="37" selection-start-column="1" selection-end-line="37" selection-end-column="1" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#187#195#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/pl/coderslab/Exercise14.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="23" column="33" selection-start-line="23" selection-start-column="33" selection-end-line="23" selection-end-column="33" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/pl/coderslab/Exercise15.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="315">
+              <caret line="21" selection-start-line="21" selection-end-line="21" />
             </state>
           </provider>
         </entry>
@@ -100,6 +148,11 @@
         <option value="$PROJECT_DIR$/src/pl/coderslab/Exercise8.java" />
         <option value="$PROJECT_DIR$/src/pl/coderslab/Exercise9.java" />
         <option value="$PROJECT_DIR$/src/pl/coderslab/Exercise10.java" />
+        <option value="$PROJECT_DIR$/src/pl/coderslab/Exercise11OC.java" />
+        <option value="$PROJECT_DIR$/src/pl/coderslab/Exercise13.java" />
+        <option value="$PROJECT_DIR$/src/pl/coderslab/Exercise14.java" />
+        <option value="$PROJECT_DIR$/src/pl/coderslab/Exercise15.java" />
+        <option value="$PROJECT_DIR$/src/pl/coderslab/Exercise12.java" />
       </list>
     </option>
   </component>
@@ -121,6 +174,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -151,13 +205,12 @@
         </subPane>
       </pane>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550752984352" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551298982655" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -173,9 +226,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Exercise10">
-    <configuration name="Excersise6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pl.coderslab.Excersise6" />
+  <component name="RunManager" selected="Application.Exercise15">
+    <configuration name="Exercise11OC" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pl.coderslab.Exercise11OC" />
       <module name="testowanko" />
       <extension name="coverage">
         <pattern>
@@ -187,8 +240,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exercise10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pl.coderslab.Exercise10" />
+    <configuration name="Exercise12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pl.coderslab.Exercise12" />
       <module name="testowanko" />
       <extension name="coverage">
         <pattern>
@@ -200,8 +253,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exercise7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pl.coderslab.Exercise7" />
+    <configuration name="Exercise13" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pl.coderslab.Exercise13" />
       <module name="testowanko" />
       <extension name="coverage">
         <pattern>
@@ -213,8 +266,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exercise8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pl.coderslab.Exercise8" />
+    <configuration name="Exercise14" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pl.coderslab.Exercise14" />
       <module name="testowanko" />
       <extension name="coverage">
         <pattern>
@@ -226,8 +279,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exercise9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pl.coderslab.Exercise9" />
+    <configuration name="Exercise15" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pl.coderslab.Exercise15" />
       <module name="testowanko" />
       <extension name="coverage">
         <pattern>
@@ -240,19 +293,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Excersise6" />
-      <item itemvalue="Application.Exercise7" />
-      <item itemvalue="Application.Exercise8" />
-      <item itemvalue="Application.Exercise9" />
-      <item itemvalue="Application.Exercise10" />
+      <item itemvalue="Application.Exercise11OC" />
+      <item itemvalue="Application.Exercise12" />
+      <item itemvalue="Application.Exercise13" />
+      <item itemvalue="Application.Exercise14" />
+      <item itemvalue="Application.Exercise15" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Exercise10" />
-        <item itemvalue="Application.Exercise9" />
-        <item itemvalue="Application.Exercise8" />
-        <item itemvalue="Application.Exercise7" />
-        <item itemvalue="Application.Excersise6" />
+        <item itemvalue="Application.Exercise15" />
+        <item itemvalue="Application.Exercise14" />
+        <item itemvalue="Application.Exercise13" />
+        <item itemvalue="Application.Exercise12" />
+        <item itemvalue="Application.Exercise11OC" />
       </list>
     </recent_temporary>
   </component>
@@ -271,7 +324,8 @@
       <workItem from="1549901301876" duration="985000" />
       <workItem from="1550567192444" duration="1018000" />
       <workItem from="1550665480576" duration="12383000" />
-      <workItem from="1550739702019" duration="13205000" />
+      <workItem from="1550739702019" duration="13250000" />
+      <workItem from="1551269522761" duration="11297000" />
     </task>
     <task id="LOCAL-00001" summary="list get test">
       <created>1549395154145</created>
@@ -280,11 +334,18 @@
       <option name="project" value="LOCAL" />
       <updated>1549395154147</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="codewars ex updated">
+      <created>1550753461640</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1550753461640</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="36440000" />
+    <option name="totallyTimeSpent" value="47782000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="25" width="1299" height="743" extended-state="6" />
@@ -309,7 +370,6 @@
       <window_info anchor="bottom" id="Terminal" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.32861635" />
-      <window_info anchor="right" id="Coverage" side_tool="true" weight="0.32948422" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -319,6 +379,7 @@
       <window_info anchor="right" id="Theme Preview" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info anchor="right" id="Maven Projects" order="8" />
+      <window_info anchor="right" id="Coverage" order="9" side_tool="true" weight="0.32948422" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -329,7 +390,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="list get test" />
-    <option name="LAST_COMMIT_MESSAGE" value="list get test" />
+    <MESSAGE value="codewars ex updated" />
+    <option name="LAST_COMMIT_MESSAGE" value="codewars ex updated" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -351,12 +413,6 @@
           <line>6</line>
           <properties />
           <option name="timeStamp" value="14" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/pl/coderslab/Exercise10.java</url>
-          <line>6</line>
-          <properties />
-          <option name="timeStamp" value="18" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -448,8 +504,50 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/pl/coderslab/Exercise10.java">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="494">
+          <caret line="39" selection-start-line="39" selection-end-line="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pl/coderslab/Exercise15.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pl/coderslab/Exercise14.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="23" column="33" selection-start-line="23" selection-start-column="33" selection-end-line="23" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pl/coderslab/Exercise13.java">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="349">
-          <caret line="39" lean-forward="true" selection-start-line="39" selection-end-line="39" />
+          <caret line="37" column="1" selection-start-line="37" selection-start-column="1" selection-end-line="37" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#187#195#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pl/coderslab/Exercise12.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="349">
+          <caret line="36" selection-start-line="36" selection-end-line="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pl/coderslab/Exercise11OC.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="8" column="41" selection-start-line="8" selection-start-column="41" selection-end-line="8" selection-end-column="41" />
         </state>
       </provider>
     </entry>
