@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2366829d-4a13-474f-94ad-5b81d6dc4476" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/pl/coderslab/Exercise16.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pl/coderslab/OCEX1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pl/coderslab/OCEX2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pl/coderslab/OCEX3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pl/coderslab/Exercise17.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -24,37 +21,38 @@
     <session id="479489447">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="7" />
+          <entry key="project.closed" value="8" />
           <entry key="project.open.time.52" value="1" />
           <entry key="project.open.time.58" value="1" />
+          <entry key="project.open.time.61" value="1" />
           <entry key="project.open.time.62" value="1" />
           <entry key="project.open.time.68" value="1" />
           <entry key="project.open.time.69" value="1" />
           <entry key="project.open.time.7" value="1" />
           <entry key="project.open.time.70" value="1" />
           <entry key="project.open.time.84" value="1" />
-          <entry key="project.opened" value="8" />
+          <entry key="project.opened" value="9" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="24" />
+          <entry key="java" value="25" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="24" />
+          <entry key="JAVA" value="25" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="18440" />
+          <entry key="java" value="20422" />
           <entry key="txt" value="38" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="18440" />
+          <entry key="JAVA" value="20422" />
           <entry key="PLAIN_TEXT" value="38" />
         </counts>
       </usages-collector>
@@ -65,8 +63,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/pl/coderslab/OCEX1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-30">
-              <caret line="4" column="22" lean-forward="true" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
+            <state>
+              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -74,20 +72,23 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/pl/coderslab/OCEX2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-41">
-              <caret line="18" column="9" lean-forward="true" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
+            <state relative-caret-position="479">
+              <caret line="40" column="5" selection-start-line="40" selection-start-column="5" selection-end-line="40" selection-end-column="5" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/pl/coderslab/OCEX3.java">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/pl/coderslab/Exercise17.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="480">
-              <caret line="32" column="1" selection-start-line="32" selection-start-column="1" selection-end-line="32" selection-end-column="1" />
+            <state relative-caret-position="170">
+              <caret line="18" column="107" selection-start-line="18" selection-start-column="107" selection-end-line="18" selection-end-column="107" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -126,6 +127,7 @@
         <option value="$PROJECT_DIR$/src/pl/coderslab/OCEX1.java" />
         <option value="$PROJECT_DIR$/src/pl/coderslab/OCEX2.java" />
         <option value="$PROJECT_DIR$/src/pl/coderslab/OCEX3.java" />
+        <option value="$PROJECT_DIR$/src/pl/coderslab/Exercise17.java" />
       </list>
     </option>
   </component>
@@ -183,7 +185,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551364489657" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551721150601" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -204,9 +206,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.OCEX3">
-    <configuration name="Exercise11OC" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pl.coderslab.Exercise11OC" />
+  <component name="RunManager" selected="Application.Exercise17">
+    <configuration name="Exercise16" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pl.coderslab.Exercise16" />
       <module name="testowanko" />
       <extension name="coverage">
         <pattern>
@@ -218,8 +220,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exercise16" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pl.coderslab.Exercise16" />
+    <configuration name="Exercise17" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pl.coderslab.Exercise17" />
       <module name="testowanko" />
       <extension name="coverage">
         <pattern>
@@ -271,19 +273,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Exercise11OC" />
       <item itemvalue="Application.Exercise16" />
       <item itemvalue="Application.OCEX1" />
       <item itemvalue="Application.OCEX2" />
       <item itemvalue="Application.OCEX3" />
+      <item itemvalue="Application.Exercise17" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Exercise17" />
         <item itemvalue="Application.OCEX3" />
         <item itemvalue="Application.OCEX2" />
         <item itemvalue="Application.OCEX1" />
         <item itemvalue="Application.Exercise16" />
-        <item itemvalue="Application.Exercise11OC" />
       </list>
     </recent_temporary>
   </component>
@@ -304,7 +306,8 @@
       <workItem from="1550665480576" duration="12383000" />
       <workItem from="1550739702019" duration="13250000" />
       <workItem from="1551269522761" duration="11627000" />
-      <workItem from="1551344680311" duration="10773000" />
+      <workItem from="1551344680311" duration="10827000" />
+      <workItem from="1551714137159" duration="6204000" />
     </task>
     <task id="LOCAL-00001" summary="list get test">
       <created>1549395154145</created>
@@ -327,11 +330,18 @@
       <option name="project" value="LOCAL" />
       <updated>1551299004111</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="codewars ex updated">
+      <created>1551364506216</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1551364506216</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="58885000" />
+    <option name="totallyTimeSpent" value="65143000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="25" width="1299" height="743" extended-state="6" />
@@ -543,6 +553,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/pl/coderslab/OCEX1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/pl/coderslab/OCEX3.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="480">
@@ -550,20 +570,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/pl/coderslab/OCEX1.java">
+    <entry file="file://$PROJECT_DIR$/src/pl/coderslab/OCEX2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-30">
-          <caret line="4" column="22" lean-forward="true" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="479">
+          <caret line="40" column="5" selection-start-line="40" selection-start-column="5" selection-end-line="40" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/pl/coderslab/OCEX2.java">
+    <entry file="file://$PROJECT_DIR$/src/pl/coderslab/Exercise17.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-41">
-          <caret line="18" column="9" lean-forward="true" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
+        <state relative-caret-position="170">
+          <caret line="18" column="107" selection-start-line="18" selection-start-column="107" selection-end-line="18" selection-end-column="107" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
