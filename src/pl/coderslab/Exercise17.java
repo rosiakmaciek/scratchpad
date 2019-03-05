@@ -9,18 +9,17 @@ public class Exercise17 {
 
     public static void main(String[] args) {
 
-        String toTest = "?*11=??";
+        String toTest = "10-?=1?-11+1";
         System.out.println(solveExpression(toTest));
 
     }
 
     public static int solveExpression(final String expression) {
 
-        // działa ale tylko dla dodatnich, trzeba wymyślić coś na minusowe, moze execute na StringBuilderze
-
         String[] parts = expression.split("=");
         String L = parts[0];
         String P = parts[1];
+        boolean flag = false;
 
         Set<Character> knownCharacters = new HashSet<>();
 
@@ -54,9 +53,33 @@ public class Exercise17 {
                 String lSum = new String(LArray);
                 String pSum = new String(PArray);
 
-                if (engine.eval(lSum).equals(engine.eval(pSum)) && LArray[0] != '0' && PArray[0] != '0' && !knownCharacters.contains(toPut) && !knownCharacters.contains(toPut)) {
+                String[] lParts = lSum.split("[-+*/]");
+                String[] pParts = pSum.split("[-+*/]");
+
+                for(String part : lParts) {
+
+                    if(part.length() > 1) {
+                        if(part.charAt(0) == '0') {
+                            flag = true;
+                        }
+                    }
+
+                }
+
+                for(String part : pParts) {
+                    if(part.length() > 1) {
+                        if(part.charAt(0) == '0') {
+                            flag = true;
+                        }
+                    }
+                }
+
+
+                if (engine.eval(lSum).equals(engine.eval(pSum)) && !flag && !knownCharacters.contains(toPut)) {
                     return j;
                 }
+
+                flag = false;
 
             }
 
